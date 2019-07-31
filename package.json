@@ -1,0 +1,24 @@
+{
+  "name": "light-ci",
+  "version": "1.0.0",
+  "description": "light ci",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddosakura/light-ci.git"
+  },
+  "keywords": [
+    "light",
+    "ci"
+  ],
+  "author": "ddosakura",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ddosakura/light-ci/issues"
+  },
+  "homepage": "https://github.com/ddosakura/light-ci#readme",
+  "dependencies": {
+    "github-webhook-handler": "^0.7.1"
+  }
+}
